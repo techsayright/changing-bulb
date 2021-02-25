@@ -1,0 +1,30 @@
+.container{
+    width: 75%;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+
+#bulblg{
+    align-items: center;
+    width: 50%;
+    height: 50%;
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+.bulb{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.button{
+    margin:20px;
+    display: flex;
+    justify-content: space-around;
+      
+}
+.openbulb{
+    width: 10px;
+    size: 4px;
+}
